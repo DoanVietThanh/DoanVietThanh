@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🌍 I'm based in Vietnamese
+🌍 I am a Junior Frontend software engineer with **2+ years** of hands-on experience in building user-focused web applications and optimizing performance. 
 
-📖 I’m currently studying at **FPT University**
+📖 I am eager to leverage my passion, technical skills, and commitment to continuous learning to deliver high-quality products and contribute meaningful value to the company. My main goal is to grow as a Senior Front-end Developer in the future, strengthening my proficiency in UI development and modern front-end technologies.
 
  </div>
 
